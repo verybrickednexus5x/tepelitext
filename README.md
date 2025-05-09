@@ -29,7 +29,6 @@ View the decrypted content
 
 **TWO WAYS TO ACCESS THE CONVERTER**
 
-*Way 1*
-Download the tepelitext.html from the realeases page
+*Way 1*: Download the tepelitext.html from the realeases page (ui may be different as you may not be able to load the online assets, but it may be more secure)
 
-*Way 2* Check the GitHub pages link for this repository
+*Way 2*: Check the GitHub pages link for this repository (less secure)
